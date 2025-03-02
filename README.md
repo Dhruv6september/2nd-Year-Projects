@@ -3,7 +3,7 @@ A feature-rich Telegram bot built using Python and Telethon/Bot API. Supports au
 
 📌Features: 
 -Quick Links
--Interactive Adventure Game:
+-Interactive Adventure Game
 -Daily Humour
 -Latest News
 -Weather Updates
